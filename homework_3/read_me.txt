@@ -1,0 +1,1 @@
+login user and admin from the same page
